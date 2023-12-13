@@ -27,6 +27,10 @@ Buscamos  el equipo en el cual estamos realizando este laboratorio ejemplo la op
 **Esto se debe realizar unicamente en ambientes controlados y con autorizacion de los implicados, no me hago responsable del uso de esta informacion la cual es compartida de forma academica unicamente.**
 
 
+### Script obtenidos de David Bombal muchas gracias. https://github.com/davidbombal/red-python-scripts
+
+
+
 
 
     
